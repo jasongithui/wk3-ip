@@ -1,13 +1,23 @@
 header {
     background-image: url("../img/header.jpg"); height: 700px;
     background-size: cover;
-  }
-  .top {
+}
+.top {
     text-align: center;
     color: white;
     padding-top: 50px;
-  }
+}
+.mouseClick{
+  cursor: pointer;
+  margin-left: 50%;
+  padding-top: 140px;
+}
+#mouse{
+    animation: bounce 2s infinite;
+}
+.logo {
+    text-align: center;
+    padding-top: 200px;
+}
 
 
-
-  
