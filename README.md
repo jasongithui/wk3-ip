@@ -1,9 +1,9 @@
 # Delani Studio
 #### By **Jason Githui**
 ![Home Page](img/rd1.png)
-This project unifies design,development and product management made to create exceptional products by understanding your business goals,the user's needs and the product requirements.
 ## Description
-This website enables users to be provided quality goods and services from our studios at affordable prices.
+This project unifies design,development and product management made to create exceptional products by understanding your business goals,the user's needs and the product requirements.
+To view,click this link https://jasongithui.github.io/wk3-ip/
 ## Setup/Installation Requirements
 * Create a folder and initialize git
 * Create an online repository and push the local to the remote.
