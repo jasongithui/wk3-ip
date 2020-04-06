@@ -7,9 +7,8 @@ To view,click this link https://jasongithui.github.io/wk3-ip/
 ## Setup/Installation Requirements
 * Create a folder and initialize git
 * Create an online repository and push the local to the remote.
-*Type messages using HTML language 
-*Style using CSS, Bootstrap and Javascript
- * Provide a liscence.
+* Fork the project to your own repository
+* Enjoy the work.
 ## Known Bugs
 There are no known Bugs.
 ## Technologies Used
@@ -20,7 +19,7 @@ For any questions, use my email jasongithui@gmail.com.
 ### License
 MIT License
 
-Copyright (c) 2019 John Mutavi
+Copyright (c) 2020 Jason Githui
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
