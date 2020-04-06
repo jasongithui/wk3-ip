@@ -54,8 +54,134 @@ header {
 .development-showing {
     display: none;
 }
-
-
+.click {
+    cursor: pointer;
+    color: #0088cc;
+  }
+  #product-management {
+    display: none;
+  }
+  .product-management-showing {
+  display: none;
+  }
+  .clic {
+    cursor: pointer;
+    color: #0088cc;
+  }
+  .col-md-3 {
+    text-align: center;
+    margin-top: 50px;
+    padding-right: 0px;
+    padding-left: 0px;
+  }
+  #work1 {
+    padding: 5px;
+    height: 200px;
+    width: 280px;
+    cursor: pointer;
+    color: #0088cc;
+  }
+  #work2 {
+    padding: 5px;
+    height: 200px;
+    width: 280px;
+    cursor: pointer;
+    color: #0088cc;
+  }
+  #work3 {
+    padding: 5px;
+    height: 200px;
+    width: 280px;
+    cursor: pointer;
+    color: #0088cc;
+  }
+  #work4 {
+    padding: 5px;
+    height: 200px;
+    width: 280px;
+    cursor: pointer;
+    color: #0088cc;
+  }
+  #work5 {
+    padding: 5px;
+    height: 200px;
+    width: 280px;
+    cursor: pointer;
+    color: #0088cc;
+  }
+  #work6 {
+    padding: 5px;
+    height: 200px;
+    width: 280px;
+    cursor: pointer;
+    color: #0088cc;
+  }
+  #work7 {
+    padding: 5px;
+    height: 200px;
+    width: 280px;
+    cursor: pointer;
+    color: #0088cc;
+  }
+  #work8 {
+    padding: 5px;
+    height: 200px;
+    width: 280px;
+    cursor: pointer;
+    color: #0088cc;
+  }
+  .portfolio {
+    text-align: center;
+  }
+  .footer{
+      background-image: url("../img/c_image.jpg"); background-size: cover;
+      background-attachment: fixed;
+      height: 500px;
+      color: white;
+  }
+  .footer h1{
+      text-align: center;
+      margin-top: 70px;
+      font-weight: bold;
+  }
+  #contactForm{
+      margin-left: 100px;
+  }
+  input::placeholder{
+      color: white;
+  }
+  .footer input{
+      background-color: transparent;
+      color: white;
+      padding: 3px;
+      margin-top: 50px;
+      margin-right: 200px;
+      width: 300px;
+  }
+  .submitBtn{
+      margin: 30px 0px 20px 350px;
+      padding: 10px;
+      background-color: transparent;
+      color: black;
+      transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+  }
+  .submitBtn:hover{
+      margin: 30px 0px 20px 350px;
+      padding: 10px;
+      background-color: transparent;
+      color: white;
+      transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+  }
+  
+  #textArea{
+      color: white;
+      padding-bottom: 200px;
+      width: 800px;
+  }
+  .socials {
+    margin-top: 30px;
+  }
+  
 
 
 
