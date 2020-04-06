@@ -37,9 +37,23 @@ header {
     margin-top: 50px;
     background-size: cover;
   }
+#design {
+    display: none;
+}
+.design-showing {
+    display: none;
+}
+.clickable {
+    cursor: pointer;
+    color: #0088cc;
+}
 
-
-
+#development {
+    display: none;
+}
+.development-showing {
+    display: none;
+}
 
 
 
