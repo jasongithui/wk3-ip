@@ -160,27 +160,45 @@ header {
   }
   .submitBtn{
       margin: 30px 0px 20px 350px;
+      shape-margin: 10px;
       padding: 10px;
-      background-color: transparent;
-      color: black;
-      transition: cubic-bezier(0.165, 0.84, 0.44, 1);
+      border: 1px solid rgb(12, 11, 4);
+      background: linear-gradient(-45deg, rgb(202, 204, 72), rgb(183, 187, 189), rgb(216, 221, 223), rgb(218, 241, 10));
+      animation: gradient 2s infinite;
+      transition: background-color 0.6s ease-in-out;
+      border-radius: 60%;
+      overflow-x: hidden;
   }
-  .submitBtn:hover{
+  @-webkit-keyframes gradient {
+    0% {
+          background-position: 0% 50% 
+    }
+    50% { 
+          background-position: 100% 50%
+    }
+    100% {
+          background-position: 0% 50%  
+    }
+}
+.submitBtn:hover{
       margin: 30px 0px 20px 350px;
       padding: 10px;
       background-color: transparent;
-      color: white;
-      transition: cubic-bezier(0.165, 0.84, 0.44, 1);
-  }
+	  border: 1px solid gold;
+	  border-radius: 10px;
+	  color: gold;
+      transition: all 0.7s ease-in;
+      animation: bounce 2s infinite;
+}
   
-  #textArea{
+#textArea{
       color: white;
       padding-bottom: 200px;
       width: 800px;
-  }
-  .socials {
+}
+.socials {
     margin-top: 30px;
-  }
+}
   
 
 
