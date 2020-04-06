@@ -13,7 +13,7 @@ This website enables users to be provided quality goods and services from our st
 ## Known Bugs
 There are no known Bugs.
 ## Technologies Used
-![Tech](img/icon.png)
+![Tech](img/icon.jpg)
 Language used is HTML, CSS, JAVASCRIPT AND JQUERY.Styling initialised by Material Design Bootstrap and Google fonts.
 ## Support and contact details
 For any questions, use my email jasongithui@gmail.com.
